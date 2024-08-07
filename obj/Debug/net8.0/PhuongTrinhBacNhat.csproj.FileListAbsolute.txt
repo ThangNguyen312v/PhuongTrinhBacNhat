@@ -1,0 +1,14 @@
+E:\PhuongTrinhBacNhat\bin\Debug\net8.0\PhuongTrinhBacNhat.exe
+E:\PhuongTrinhBacNhat\bin\Debug\net8.0\PhuongTrinhBacNhat.deps.json
+E:\PhuongTrinhBacNhat\bin\Debug\net8.0\PhuongTrinhBacNhat.runtimeconfig.json
+E:\PhuongTrinhBacNhat\bin\Debug\net8.0\PhuongTrinhBacNhat.dll
+E:\PhuongTrinhBacNhat\bin\Debug\net8.0\PhuongTrinhBacNhat.pdb
+E:\PhuongTrinhBacNhat\obj\Debug\net8.0\PhuongTrinhBacNhat.GeneratedMSBuildEditorConfig.editorconfig
+E:\PhuongTrinhBacNhat\obj\Debug\net8.0\PhuongTrinhBacNhat.AssemblyInfoInputs.cache
+E:\PhuongTrinhBacNhat\obj\Debug\net8.0\PhuongTrinhBacNhat.AssemblyInfo.cs
+E:\PhuongTrinhBacNhat\obj\Debug\net8.0\PhuongTrinhBacNhat.csproj.CoreCompileInputs.cache
+E:\PhuongTrinhBacNhat\obj\Debug\net8.0\PhuongTrinhBacNhat.dll
+E:\PhuongTrinhBacNhat\obj\Debug\net8.0\refint\PhuongTrinhBacNhat.dll
+E:\PhuongTrinhBacNhat\obj\Debug\net8.0\PhuongTrinhBacNhat.pdb
+E:\PhuongTrinhBacNhat\obj\Debug\net8.0\PhuongTrinhBacNhat.genruntimeconfig.cache
+E:\PhuongTrinhBacNhat\obj\Debug\net8.0\ref\PhuongTrinhBacNhat.dll
